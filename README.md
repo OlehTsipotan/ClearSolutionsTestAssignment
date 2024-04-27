@@ -1,4 +1,4 @@
-## Clear Solutions (Test Assigment) by *Oleh Tsipotan*
+## Clear Solutions (Test Assignment) by *Oleh Tsipotan*
 
 - **TASK**: [link to the task description](https://docs.google.com/document/d/1LosRgr72sJYcNumbZKET7uiIJ3Un_ORl25Psn1Dd9hw/edit)
 
