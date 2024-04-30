@@ -17,8 +17,8 @@ docker run --name pg_clear_solution -e POSTGRES_PASSWORD=mysecretpassword -e POS
 
 - **3.** Set up the Env. variables:
 ```
-  SPRING_DATASOURCE_PASSWORD=mysecretpassword;
-  SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/clearsolution;
+  SPRING_DATASOURCE_PASSWORD=mysecretpassword
+  SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/clearsolution
   SPRING_DATASOURCE_USERNAME=myuser
 ```
 
